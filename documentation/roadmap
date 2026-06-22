@@ -1,0 +1,31 @@
+# Development Roadmap
+
+## Phase 1
+Research
+
+- Swarm Intelligence
+- UAV Platforms
+- Communications
+
+## Phase 2
+Simulation
+
+- Implement Boids Algorithm
+- Test formations
+- Measure coverage
+
+## Phase 3
+Drone Design
+
+- Frame Design
+- Sensor Selection
+- Battery Analysis
+
+## Phase 4
+Prototype
+
+- Single Drone
+- Multi-Drone Testing
+
+## Phase 5
+Final System
